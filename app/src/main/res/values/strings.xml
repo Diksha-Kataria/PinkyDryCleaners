@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pinky Dry Cleaners</string>
+    <string name="shop_name">Pinky Dry Cleaners Dryers And Dyers</string>
+    <string name="about">About Us</string>
+    <string name="shop_address">Buchad Mohal, Sadar Bazar, Cantonment, Lucknow, Uttar Pradesh. 226002</string>
+    <string name="phone_number">+91-0000000000</string>
+    <string name="timing">10:00 AM to 9:00 PM\n(Sunday Closed)</string>
+    <string name="services">Our Services</string>
+    <string name="text">We are delivering quality services since <b>1985</b>.\nOur services includes:</string>
+    <string name="services_includes">- Drycleaning\n- Washing (Clothes, Sofa, Curtains)\n- Carpet Cleaning\n- Saree Starch\n- Dyeing Clothes\n- Darning Clothes\n- Ironing\n\n<b>One day delivery</b> is also available</string>
+</resources>
